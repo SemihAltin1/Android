@@ -2,10 +2,11 @@
 Android Studio Projects
 
 # CatchBall
-  Ekranın farklı yerlerinde ortaya çıkan topu yakaladıkça puan aldığınız basit bir oyun.
+  The game where you earn points as you click on the ball that appears in different parts of the screen.
+  The points you earn are kept in the database.
   
 # myDiary
-  Kullanıcıların günlük tuttuğu ve bu günlükleri SQL veri tabanına kaydeden mobil uygulama.
+  Application where user can keep diary and save those diary in database
   
 # MenuAnimation
-  Listview için kendim yazmış olduğum Adapter ile menüye bir takım animasyonlar uygulanıyor.
+  An application that show the use of animation on items in a list view
